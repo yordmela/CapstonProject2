@@ -1,0 +1,139 @@
+.first{
+    background: linear-gradient(to bottom, #6c50c4, #a74ac4);
+    width:100%;
+    height: 100vh;  
+    margin-right:0 ;
+}
+body {
+    margin: 0;
+    padding: 0;
+  }
+  .container{
+    width:900px;
+    margin:0;
+    padding:0;
+
+  }
+
+ .top-container{
+    padding:0;
+    text-align:center;
+    font-family: "Roboto", sans-serif;
+    color:#eaeaea;
+    letter-spacing: 2px;
+    display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+ }
+ .h1 h1{
+        margin-top: 0;
+        font-family: "Densia", serif;
+        font-weight: bolder;
+        font-size: 80px;
+        letter-spacing: 3px;
+ }
+
+ .h1 img{
+    border-radius: 50%;
+ }
+ .mypic{
+   
+    display:flex;
+    justify-content: center;
+ }
+.mypic img{
+    border-radius: 100%;
+    border:#a74ac4 solid;
+    margin-top: 50px;
+   
+}
+.hero-text{
+    color:purple;
+    font-family: "Roboto", sans-serif;
+   
+   
+}
+
+.hero-text h3,p{
+    letter-spacing: 2px;
+    line-height:35px;
+}
+span{
+    font-weight: bold;
+}
+.resume h3{
+    color:purple;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.resume a{
+    background-color: #a74ac4;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.project{
+    color:purple;
+    font-family: "Roboto", sans-serif;
+    margin-top: 50px;
+    letter-spacing: 2px;
+    line-height:35px;
+}
+
+.additional {
+    color:purple;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 2px;
+    line-height:35px;
+    display:flex;
+    margin-top:50px;
+  
+    
+}
+.img2{
+    margin-right: 100px;
+    
+    
+    
+}
+.img2 img{
+    border-radius: 50%;
+    border:#a74ac4 solid 
+}
+.img3{
+    margin-top:50px;
+    border-radius: 35%;
+}
+.contact{
+    color:purple;
+    font-family: "Roboto", sans-serif;
+     display:flex;
+     text-align: center;
+    margin-top: 100px;
+    width:750px;
+    letter-spacing: 2px;
+    line-height:35px;
+    margin-left: 50px;
+}
+.contact a{
+    background-color:#a74ac4;
+    
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    border:#a74ac4 solid;
+    margin-top: 50px;
+    background: linear-gradient(to bottom, #6c50c4, #a74ac4);
+    color:white;
+}
+.row a{
+    color:white;
+}
+.copy{
+    margin-right: 50px;
+}
